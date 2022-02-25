@@ -4,16 +4,16 @@
 */
 
 body {
-  background-color: powderblue;
+  background-color: LightSteelBlue;
 }
 
 h1 {
-  background-color: rgb(116, 135, 181);
+  background-color: #7487b5;
   color: hsl(255, 255%, 255%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #7487b5;
+  background-color: #d8e2f8;
 }
