@@ -4,12 +4,12 @@
 */
 
 body {
-  background-color: LightSteelBlue;
+  background-color: lightsteelblue;
 }
 
 h1 {
   background-color: #7487b5;
-  color: hsl(255, 255%, 255%);
+  color: hsl(255°, 255%, 255%);
   padding: 40px;
   text-align: center;
 }
