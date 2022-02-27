@@ -1,0 +1,45 @@
+/* Created by: Kaitlyn Ip
+ * Created on: Feb 27 2022
+ * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: darkslateblue;
+}
+
+h1 {
+  background-color: #7761b3;
+  color: hsl(152deg 26% 62%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #9889c2;
+}
+
+ul {
+  color: beige;
+}
+
+ul li::before {
+  content: "✅";
+}
+
+table {
+  border: solid thin;
+}
+
+th {
+  height: 2rem;
+  background: mediumpurple;
+  border: 1px solid white;
+  text-align: left;
+}
+
+td {
+  height: 2rem;
+  background: lightblue;
+  border: 1px solid black;
+  text-align: center;
+}
